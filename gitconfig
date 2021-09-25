@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laetdi@gmail.com
+	name = Laetitia Taddei
