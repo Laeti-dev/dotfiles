@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gh api laetdi@gmail.com
+	email = laetdi@gmail.com
 	name = Laetitia Taddei
